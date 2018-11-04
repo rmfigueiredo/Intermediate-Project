@@ -1,0 +1,4 @@
+-- Jogador rorif
+-- 2 jogos: 1 vitorias e 1 derrotas.
+	 -- 1º jogo: 4 V
+	 -- 2º jogo : D
